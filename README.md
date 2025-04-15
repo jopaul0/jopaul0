@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** pela **FATEC** e técnico em informática pelo **Colégio Opção**. Tenho 17 anos e sou apaixonado por tecnologia, programação e inovação. Atualmente, estou me dedicando a melhorar minhas habilidades em **Python**, **Flask**, **desenvolvimento de sistemas** e **gestão de banco de dados**.
+Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** pela **FATEC** e técnico em informática pelo **Colégio Opção**. Tenho 18 anos e sou apaixonado por tecnologia, programação e inovação. Atualmente, estou me dedicando a melhorar minhas habilidades em **Python**, **Flask**, **desenvolvimento de sistemas** e **gestão de banco de dados**.
 
 ### Meus Interesses:
 - Desenvolvimento de sistemas
