@@ -7,11 +7,10 @@ Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** pela *
 ### Meus Interesses:
 - Desenvolvimento de sistemas
 - Programação em Python
-- Desenvolvimento Web (Flask, Django)
+- Desenvolvimento Web
 
 ### 📚 No momento, estou:
-- Trabalhando no **projeto SAMA**, uma nova iniciativa.
-- Desenvolvendo projetos e aprimorando meus conhecimentos em **Flask** e **Python**.
+- Trabalhando no **OnVale APP**, uma nova iniciativa.
 
 ---
 
@@ -20,7 +19,7 @@ Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** pela *
 Aqui estão alguns dos projetos que fiz parte ou que estou colaborando:
 
 - [**CantinaOnline+**](https://github.com/jopaul0/CantinaOnline-TCC) - Sistema para a gestão de cantinas online, desenvolvido como parte do meu TCC.
-- [**SAMA**](https://github.com/jopaul0/SAMA) - Sistema de gerenciamento de atestados médicos e gerenciamento de equipes ágeis.
+- [**SAMA**](https://github.com/Equipe-DotTec/SAMA-API) - Sistema de gerenciamento de atestados médicos e gerenciamento de equipes ágeis.
 
 ---
 
@@ -34,7 +33,7 @@ Aqui estão alguns dos projetos que fiz parte ou que estou colaborando:
 ## Tecnologias que eu uso ⚙️
 
 - **Linguagens**: Python, PHP
-- **Frameworks**: Flask, Django
+- **Frameworks**: Flask, Bootstrap, JQuery
 - **Banco de Dados**: MySQL, SQLite
 - **Ferramentas**: Git, GitHub, VSCode
 
