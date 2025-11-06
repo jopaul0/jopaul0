@@ -1,55 +1,35 @@
-# Olá, sou João Paulo! 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jopaul0&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-## Sobre mim
 
-Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** pela **FATEC** e técnico em informática pelo **Colégio Opção**. Tenho 18 anos e sou apaixonado por tecnologia, programação e inovação. Atualmente, estou me dedicando a melhorar minhas habilidades em **Python**, **Flask**, **desenvolvimento de sistemas** e **gestão de banco de dados**.
 
-### Meus Interesses:
-- Desenvolvimento de sistemas
-- Programação em Python
-- Desenvolvimento Web
+### Olá, meu nome é João Paulo!
 
-### 📚 No momento, estou:
-- Trabalhando no **OnVale APP**, uma nova iniciativa.
+<img src="https://img.shields.io/static/v1?label=Overview&message=jopaul0&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na OnVale Contabilidade<br>Eu sou Desenvolvedor Backend</p>
 
 ---
 
-## Projetos 📦
 
-Aqui estão alguns dos projetos que fiz parte ou que estou colaborando:
 
-- [**CantinaOnline+**](https://github.com/jopaul0/CantinaOnline-TCC) - Sistema para a gestão de cantinas online, desenvolvido como parte do meu TCC.
-- [**SAMA**](https://github.com/Equipe-DotTec/SAMA-API) - Sistema de gerenciamento de atestados médicos e gerenciamento de equipes ágeis.
 
----
+<br/>
 
-## Como você pode me encontrar 📱
-- **LinkedIn**: [João Paulo](https://www.linkedin.com/in/joaosantos02/)
-- **E-mail**: [jopaulo.as8@gmail.com](mailto:jopaulo.as8@gmail.com)
-- **GitHub**: [jopaul0](https://github.com/jopaul0)
+<div align="center">
+   
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jopaul0&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+</div>
 
-## Tecnologias que eu uso ⚙️
-
-- **Linguagens**: Python, PHP
-- **Frameworks**: Flask, Bootstrap, JQuery
-- **Banco de Dados**: MySQL, SQLite
-- **Ferramentas**: Git, GitHub, VSCode
-
----
-
-## Contribuições 🤝
-
-Sinta-se à vontade para explorar meus projetos, fazer contribuições ou entrar em contato se tiver dúvidas. Estou sempre aberto a aprender e colaborar!
-
----
-
-## Acompanhe meus estudos 📖
-- **Trilha de Python - Bradesco**: Concluí recentemente a trilha de Python do Bradesco e estou em busca de novos cursos para aprimorar meus conhecimentos em programação.
-- **Desenvolvimento Flask - Alura**: Concluí uma formação denominada Flask - do zero ao CRUD, me aprofundando no desenvolvimento web com Python.
-
----
-
-Obrigado por visitar meu perfil! 😄
+<p align="center">
+  <a href="https://wa.me/55992196356" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:jopaulo.as8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaosantos02" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
