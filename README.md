@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=jopaul0&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I am Backend Developer</p>
+<p>I am Software Developer</p>
 
 </div>
 
