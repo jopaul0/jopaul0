@@ -2,7 +2,7 @@
 
 # 👋 Hello, my name is João Paulo!
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jopaul0&color=f8efd4&style=for-the-badge)](https://github.com/jopaul0)
+[![Profile Views](https://komarev.com/ghpvc/?username=jopaul0&color=783c00&style=for-the-badge)](https://github.com/jopaul0)
 
 **Backend Developer**
 
