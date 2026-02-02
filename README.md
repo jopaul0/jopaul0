@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, my name is João Paulo!
+# Hello, I'm João Paulo
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jopaul0&color=783c00&style=for-the-badge)](https://github.com/jopaul0)
 
