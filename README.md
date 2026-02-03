@@ -19,7 +19,7 @@ public class Developer {
 
 [![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
