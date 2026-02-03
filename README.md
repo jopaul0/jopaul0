@@ -13,7 +13,14 @@ public class Developer {
 }
 ```
 
+
 <div align="center">
+
+
+[![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jopaul0/jopaul0/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,9 +30,6 @@ public class Developer {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-<div align="center">
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5555992196356)
@@ -39,12 +43,12 @@ public class Developer {
 
 
 
+
+
 ---
 
 ### 💡 Aberto a colaborações e novas oportunidades!
 
 *"Do terminal escuro nasce o amarelo..."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=100&section=footer" width="100%"/>
 
 </div>
