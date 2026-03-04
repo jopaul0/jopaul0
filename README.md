@@ -4,7 +4,7 @@
 public class Developer {
     private String name = "João Paulo Santos";
     private String role = "Backend Developer";
-    private String[] currentFocus = {"Java", "Docker", "Microservices"};
+    private String[] currentFocus = {"Java", "Docker", "TypeScript"};
     private boolean openToWork = true;
     
     public String getDailyRoutine() {
