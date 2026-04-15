@@ -3,8 +3,8 @@
 ```java
 public class Developer {
     private String name = "João Paulo Santos";
-    private String role = "Backend Developer";
-    private String[] currentFocus = {"Java", "Docker", "TypeScript"};
+    private String role = "Full Stack Developer";
+    private String[] currentFocus = {"TypeScript", "Data Structure"};
     private boolean openToWork = true;
     
     public String getDailyRoutine() {
